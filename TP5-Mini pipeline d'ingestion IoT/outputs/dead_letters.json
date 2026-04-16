@@ -1,0 +1,2480 @@
+[
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "7fe210cb-2dee-47d3-b2d3-1db550f63472",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174519.3283517
+    },
+    "created_at": 1776174519.3284063,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "1274b2b4-3fc0-440e-9f5b-95ddcef1d9f8",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174519.3390439
+    },
+    "created_at": 1776174519.3391123,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "ddb58cec-eabd-42b9-b9c0-705f95359bd0",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174519.3721135
+    },
+    "created_at": 1776174519.372156,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "e971e7f0-a076-4aa3-94ef-a3d62af1c00c",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174519.3828788
+    },
+    "created_at": 1776174519.3829155,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "774a6dd9-d986-4295-8e3c-16b641a0d085",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174519.4037683
+    },
+    "created_at": 1776174519.4038026,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "db32255d-be2e-42e8-bc3a-7b8e8a3b48fd",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174519.446398
+    },
+    "created_at": 1776174519.4464476,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "750b6eea-9935-4d61-90ee-f96c4b90554b",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174519.4569933
+    },
+    "created_at": 1776174519.4570243,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "b8892e6e-60be-4ed7-b933-848f057c9e9c",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174519.4670382
+    },
+    "created_at": 1776174519.467071,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "bc4929a9-a821-465a-9a91-2235860f041e",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174519.4966571
+    },
+    "created_at": 1776174519.4966896,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "9077d378-507a-4fb3-827f-374eec3ca135",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174519.5176175
+    },
+    "created_at": 1776174519.5176501,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "3c021e35-f868-4df7-a248-577b82c1266f",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174520.0127103
+    },
+    "created_at": 1776174520.0127392,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "8eb284b8-c1cb-4e8c-9501-fd18cc501c1d",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174520.044415
+    },
+    "created_at": 1776174520.0444293,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "f320b5e7-3986-44cd-ad6f-8ea346dd09e4",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174520.0862448
+    },
+    "created_at": 1776174520.086285,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "1a613f62-9e60-418f-9b50-1da40fe1524c",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174520.1186817
+    },
+    "created_at": 1776174520.1187036,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "8389d0fd-f79a-4fff-a1aa-09371bb426dd",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174520.1290336
+    },
+    "created_at": 1776174520.1290607,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "2df5853c-2e29-4e90-b96b-15e4164d95a2",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174520.129098
+    },
+    "created_at": 1776174520.1291122,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "0f412ecb-5496-40e8-9abd-a2572bebb7c9",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174520.2520266
+    },
+    "created_at": 1776174520.2520497,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "7fbd82a2-e3ab-4125-ba50-7f9c8f1916ec",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174520.280871
+    },
+    "created_at": 1776174520.2809134,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "6c5f4fdd-5845-4c7b-8e51-add7e412cea0",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174520.7638414
+    },
+    "created_at": 1776174520.7638671,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "75cfa738-11d8-443a-8d5f-65d4a9be1ce3",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174520.7776842
+    },
+    "created_at": 1776174520.7777023,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "4a321faf-b88e-4f17-b93a-a9de9739ed49",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174520.7984765
+    },
+    "created_at": 1776174520.7985373,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "7cda67b8-de46-42ec-a8ca-e7f3596d9b51",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174520.827773
+    },
+    "created_at": 1776174520.8278039,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "6e8c25b5-831f-4568-8946-d934709e42ef",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174520.866306
+    },
+    "created_at": 1776174520.8663304,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "b61361b6-8896-4479-8f4c-20ff28ee607b",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174520.9422598
+    },
+    "created_at": 1776174520.9422846,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "97e87bdc-e834-457b-b4b6-f19ecc21efc0",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174520.9850934
+    },
+    "created_at": 1776174520.9851422,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "caf21b18-3f70-43ed-a15d-128ccc832ccb",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174521.0260277
+    },
+    "created_at": 1776174521.0260656,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "b75b79f1-3a74-4b33-9995-2908674575f4",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174521.5795846
+    },
+    "created_at": 1776174521.57961,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "8563cb19-dcf6-412e-9099-408f37a319dc",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174521.6322956
+    },
+    "created_at": 1776174521.6323392,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "cdebd2fb-23d8-4ea9-90cc-c2d78f4c8ff9",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174521.731637
+    },
+    "created_at": 1776174521.731701,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "02611d8f-420f-4191-838d-84390cc695e6",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174522.3069181
+    },
+    "created_at": 1776174522.306954,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "7aa3b8cd-0246-41b2-9870-3d5a11a776f5",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174522.3152459
+    },
+    "created_at": 1776174522.3153143,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "1e00bbb9-aed4-4166-836d-3e1ecaf7e4d7",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174522.3339329
+    },
+    "created_at": 1776174522.3339777,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "48c651a9-3c0a-4e51-a9cf-1a86c7e5719f",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174522.3676853
+    },
+    "created_at": 1776174522.3677356,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "6428c120-531c-400e-b531-68ce0aa8167e",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174522.4007335
+    },
+    "created_at": 1776174522.4007883,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "17f31a96-8ad8-4bbd-854e-aed76d53e0a5",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174522.5032494
+    },
+    "created_at": 1776174522.5033023,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "5ac5f689-4590-4564-8c60-fe1eeb4ad9ef",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174522.527613
+    },
+    "created_at": 1776174522.5276566,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "0fa1d8ad-5425-49e9-8138-40b1c43c56a2",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174522.5484617
+    },
+    "created_at": 1776174522.5485578,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "77a1e368-2e3a-4511-a7a9-07cad1698775",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174522.9360251
+    },
+    "created_at": 1776174522.9360967,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "6ce57446-228f-4cc4-85cd-c25052dcde43",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174522.9786537
+    },
+    "created_at": 1776174522.978687,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "8b84b0ff-8a73-43e4-8ad4-5cdab81784b6",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174523.044278
+    },
+    "created_at": 1776174523.044304,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "e35e688e-d098-404b-ac37-522e9a0c632b",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174523.1305082
+    },
+    "created_at": 1776174523.1305513,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "47a85f71-81f1-49cb-8297-ac9b8ffa81d1",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174523.1412091
+    },
+    "created_at": 1776174523.1412742,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "d65b5a9b-a3ad-414e-a789-7f174a543d4b",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174523.1717944
+    },
+    "created_at": 1776174523.1718447,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "ee06f2bc-89fa-4ca0-914d-ea99e8cb2cfa",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174523.3195083
+    },
+    "created_at": 1776174523.3195405,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "4403d766-8665-44de-94cd-65f64e4b3e2c",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174523.349798
+    },
+    "created_at": 1776174523.349851,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "2307a431-3844-4938-800b-76a370caf7a2",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174523.7536297
+    },
+    "created_at": 1776174523.7536914,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "36e3b7c7-6c95-47d0-b09f-44c20c09cd45",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174523.7752357
+    },
+    "created_at": 1776174523.7752984,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "e0c87c3c-7fe6-4653-8512-31949f7ace0e",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174523.797842
+    },
+    "created_at": 1776174523.7979083,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "c53ec57c-d4c2-4eca-a871-ed7f5bceca43",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174523.8403497
+    },
+    "created_at": 1776174523.8403776,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "855e2eb6-1c96-476e-8d34-8eec58b60365",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174523.843253
+    },
+    "created_at": 1776174523.8432965,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "5be710bb-56c9-40fd-a33e-49e13a54197c",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174523.8537052
+    },
+    "created_at": 1776174523.853755,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "6e8c83a6-ab3d-4b5c-a2ea-8742b9d953ee",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174523.881727
+    },
+    "created_at": 1776174523.8818362,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "a33adc1c-3000-41b1-9bba-6417fa387291",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174523.9257646
+    },
+    "created_at": 1776174523.9257982,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "e5a0bc36-fdd0-4dc2-91cc-242d31dd61fc",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174523.9464257
+    },
+    "created_at": 1776174523.9464495,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "9ae43197-1f59-4e8f-b219-92353a446948",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174524.0529613
+    },
+    "created_at": 1776174524.0530066,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "a3c06ce6-4983-4f35-adb4-f03e31491add",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174524.1104906
+    },
+    "created_at": 1776174524.1105187,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "e54f957c-d39b-4962-afe9-206f5c1fe3f0",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174524.54253
+    },
+    "created_at": 1776174524.5425718,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "bdc628f5-ead6-47c7-8927-bc20c34374e8",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174524.6053102
+    },
+    "created_at": 1776174524.605374,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "781dc7a0-c115-4a37-827b-170eaf8215af",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174524.6279213
+    },
+    "created_at": 1776174524.627941,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "437df3d9-283c-4f8b-b959-60895de24a81",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174524.6577408
+    },
+    "created_at": 1776174524.657778,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "ddfa23ac-1d24-43cb-9a34-5b2f5bf91cfc",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174524.6799803
+    },
+    "created_at": 1776174524.6799953,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "15a7c49b-5f18-410b-92d0-fa98f380a454",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174524.7732131
+    },
+    "created_at": 1776174524.7732632,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "6c99daa1-e4cc-40e6-8f2f-7456361084da",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174524.8708556
+    },
+    "created_at": 1776174524.8709068,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "86d04d57-d0d4-4646-9e4c-0e4ffe90ba40",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174524.970486
+    },
+    "created_at": 1776174524.9705203,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "82488c2c-4a95-477b-99e4-4b0a068389db",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174525.3003569
+    },
+    "created_at": 1776174525.3004134,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "ebd946cc-7261-4471-8ff2-1c76844fb91d",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174525.3110166
+    },
+    "created_at": 1776174525.311059,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "08b57f7b-36d1-41b5-b617-402c5417c335",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174525.395348
+    },
+    "created_at": 1776174525.3953977,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "fa6ed5e6-e98a-4574-9049-0dc5ce790cb5",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174525.4543664
+    },
+    "created_at": 1776174525.4544113,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "0441ecbc-9722-4d06-9ca7-03393884cf05",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174525.5375447
+    },
+    "created_at": 1776174525.537559,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "9d1c2931-402b-419d-a96d-ef7c7cccf783",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174525.5474167
+    },
+    "created_at": 1776174525.5474741,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "59c06265-f27f-45db-b078-15a0377bb806",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174525.557986
+    },
+    "created_at": 1776174525.5580192,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "c1c239b2-0171-4347-9d71-9fb48efac33a",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174525.5795054
+    },
+    "created_at": 1776174525.5795133,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "2c8ee478-f521-4480-a310-ada9d3244e7d",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174525.5895472
+    },
+    "created_at": 1776174525.5895796,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "73b78941-bafc-464e-bb74-90ff8fb750ce",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174525.6854265
+    },
+    "created_at": 1776174525.6854758,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "0428898c-bd3b-41f4-b06e-5e671a5c5be5",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174525.7232845
+    },
+    "created_at": 1776174525.723318,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "f3213bce-505c-406d-b19c-1f0d0a0029cb",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174526.0128412
+    },
+    "created_at": 1776174526.0128872,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "d6da6759-19f0-4de5-b496-c108a5cf4adb",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174526.0652287
+    },
+    "created_at": 1776174526.0652974,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "b1e7d667-fc61-4ac0-aa86-afce1504cb0a",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174526.0863142
+    },
+    "created_at": 1776174526.0863574,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "60cd7671-da37-4f3f-8ce6-a638d5cff878",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174526.4431388
+    },
+    "created_at": 1776174526.443185,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "b271f781-016f-47a3-930f-62929bf026f9",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174526.4986672
+    },
+    "created_at": 1776174526.4987109,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "2dbce97a-6ee4-43ee-8417-ede9e1af74c2",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174526.4855676
+    },
+    "created_at": 1776174526.4856389,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "ae695c41-d9b7-4b92-8e75-757fc1664198",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174526.521173
+    },
+    "created_at": 1776174526.5212135,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "662b0305-19bd-4e01-8788-4c3bcce81839",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174526.5907407
+    },
+    "created_at": 1776174526.590803,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "fd2248cb-2f39-4791-85ad-bb7791ceec1d",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174526.871922
+    },
+    "created_at": 1776174526.871963,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "5f05b934-cf64-4626-b472-45bef8d296d4",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174526.8822465
+    },
+    "created_at": 1776174526.8822825,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "0c89979f-fbee-49fd-b4cc-61d7161c4f8f",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174526.9346404
+    },
+    "created_at": 1776174526.9346828,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "c7865a5f-628a-49a4-b0ce-7ba6172bcb82",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174527.1500854
+    },
+    "created_at": 1776174527.150141,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "7040f656-53bf-41ff-bdf3-28a56be39175",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174527.2410245
+    },
+    "created_at": 1776174527.2410874,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "b16c95f4-ef20-4cd7-8b97-07173b9d09a1",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174527.254429
+    },
+    "created_at": 1776174527.2544684,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "1cb91b05-81ca-4756-9ba5-6e8ff0dad448",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174527.2829483
+    },
+    "created_at": 1776174527.2829978,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "19c73706-5e9d-476f-b4ca-85070dfe0651",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174527.4892173
+    },
+    "created_at": 1776174527.4893188,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "57409274-27a4-47ef-a994-361c63f4b79a",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174527.552468
+    },
+    "created_at": 1776174527.5526083,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "65874e6c-566e-4ba6-b445-5b354969bb5d",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174527.648458
+    },
+    "created_at": 1776174527.6485236,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "e11bc8e6-93a7-486d-91ec-95407f444e95",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174527.7375422
+    },
+    "created_at": 1776174527.7376118,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "4497365b-6067-4e8d-a04d-bdb14c9649b9",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174527.7582176
+    },
+    "created_at": 1776174527.7582872,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "decd3971-b5c5-4c2e-b34b-8e07734983eb",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174527.7605517
+    },
+    "created_at": 1776174527.7606244,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "6dbe3544-c297-49d1-abf0-1a6a819298c3",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174527.7852507
+    },
+    "created_at": 1776174527.7853177,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "1134c574-2243-4f72-a40f-279c5d2e1c9c",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174527.8019288
+    },
+    "created_at": 1776174527.8019664,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "5e1ed974-35f1-4c2f-9fd4-b27932e64fa3",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174527.811995
+    },
+    "created_at": 1776174527.812043,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "3d290922-2f2b-4e72-bf17-99f5a0369a83",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174527.8554852
+    },
+    "created_at": 1776174527.8555338,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "9dbb6df1-493f-4f9f-9631-bd41dc40500d",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174527.875418
+    },
+    "created_at": 1776174527.8754766,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "44148271-676b-4f57-afdd-f57d5d31cbde",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174527.922011
+    },
+    "created_at": 1776174527.9220676,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "1c5d644b-d2bb-4793-863c-20d4cac649dc",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174528.0551653
+    },
+    "created_at": 1776174528.0552096,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "aa285f6f-f948-48c6-b038-a5a4c3e66309",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174528.2731667
+    },
+    "created_at": 1776174528.2732065,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "06354123-00b9-4821-9b12-245849696831",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174528.5381365
+    },
+    "created_at": 1776174528.538232,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "4e73af88-67f4-448f-a249-93a8ba12edad",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174528.5929718
+    },
+    "created_at": 1776174528.5930245,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "636a0fb7-844b-4588-8874-6aa522278dc3",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174528.611564
+    },
+    "created_at": 1776174528.6116202,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "72a7cc7b-536e-4714-9c59-9cc41e7a0559",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174528.6453307
+    },
+    "created_at": 1776174528.6453779,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "2854a56f-c795-4f4a-b2ac-4435bfa9dafb",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174528.7055337
+    },
+    "created_at": 1776174528.7055979,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "28ac04d6-9af0-48f0-8b60-b01ae11dd90d",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174528.755879
+    },
+    "created_at": 1776174528.7559617,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "52c43dd9-8de1-4d97-af76-3a59489ea4e2",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174528.968076
+    },
+    "created_at": 1776174528.9681735,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "74595e6b-2b60-4de2-9ae6-e0667a2f9366",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174528.996647
+    },
+    "created_at": 1776174528.997014,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "ba2556af-1a88-4535-a8c4-84b1c30e60ee",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174529.048479
+    },
+    "created_at": 1776174529.0485334,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "f94735d6-75e8-4bf5-bdc8-a3edd9fd5d49",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174529.2412958
+    },
+    "created_at": 1776174529.2413442,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "c2cb288a-5782-45bd-8a86-7fb59bfe889f",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174529.3166628
+    },
+    "created_at": 1776174529.316703,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "2132b5ec-591b-4906-a33c-99c0c54d80d7",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174529.4823678
+    },
+    "created_at": 1776174529.4824896,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "c7d60988-cac7-4c44-8789-ab12e2cc20d1",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174529.524899
+    },
+    "created_at": 1776174529.5249486,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "12e24228-21c2-4000-8325-7d47886dfe20",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174529.5983448
+    },
+    "created_at": 1776174529.5984156,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "d1715148-4ddd-41ce-a310-933e078bcbc8",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174529.6149218
+    },
+    "created_at": 1776174529.6149852,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "04410419-12ce-4363-8fda-a01e5a5da83b",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174529.6882892
+    },
+    "created_at": 1776174529.6883407,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "db85175c-60b1-4d28-aa2a-e73b2cfeb026",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174529.7746525
+    },
+    "created_at": 1776174529.7746804,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "62cd9b29-bbcd-45f4-8250-ee0f7de5484a",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174529.82391
+    },
+    "created_at": 1776174529.8239598,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "c581bb1b-b055-4586-ae67-b10133449a29",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174529.8786292
+    },
+    "created_at": 1776174529.8786986,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "a6206ce1-efc0-4a08-86e9-0ef7b1aa1bae",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174529.9410913
+    },
+    "created_at": 1776174529.941122,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "948da7e9-147c-4e7d-82d6-caf6ef924bb1",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174529.9608076
+    },
+    "created_at": 1776174529.9608347,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "eea2af49-157b-468a-b821-e6eaf3e84025",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174529.9738543
+    },
+    "created_at": 1776174529.973934,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "1d9f9bef-8545-4af3-a3a9-0b0a3f760f2e",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174530.0649254
+    },
+    "created_at": 1776174530.0649662,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "21c80190-f208-48e5-bd1f-e3e81b7ed333",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174530.2679224
+    },
+    "created_at": 1776174530.268,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "75690d58-0a7a-4265-94ef-b901d61a8fd6",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174530.4174452
+    },
+    "created_at": 1776174530.4174955,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "54959c6e-6075-4fd1-b90c-63aa1f2aa924",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174530.439109
+    },
+    "created_at": 1776174530.4391565,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "0597ad05-f512-4c53-8e2e-6db6d77d8da7",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174530.518959
+    },
+    "created_at": 1776174530.5189853,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "14cb3c01-5fd7-4d9c-a3fb-9c1df10148bd",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174530.6079779
+    },
+    "created_at": 1776174530.6080194,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "bb72fcf8-1177-4c06-b9ad-801f8d4a3947",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174530.6310184
+    },
+    "created_at": 1776174530.6310706,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "ddf2d0fb-6a7b-4e1b-a126-a05f029b4ecb",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174530.7129884
+    },
+    "created_at": 1776174530.713043,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "c38cd90a-5279-4156-8bde-dd92c34895ae",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174530.7452188
+    },
+    "created_at": 1776174530.745279,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "706234c1-92a4-47dd-9870-ed232a61d9e6",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174530.8991413
+    },
+    "created_at": 1776174530.8992374,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "7caea73b-263a-4880-ad19-a61b00d68dfa",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174531.0240905
+    },
+    "created_at": 1776174531.024153,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "a41cbe93-b648-4b01-950f-23189ba3cc9f",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174531.324241
+    },
+    "created_at": 1776174531.324309,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "6613b8e8-7ed0-4b26-89e6-7b91d119cac1",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174531.3380778
+    },
+    "created_at": 1776174531.3381412,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "6775cc53-a34e-4b8a-a40c-aa811ed359fa",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174531.466159
+    },
+    "created_at": 1776174531.4662075,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "9d8551d5-6068-4f1c-b984-42db1628e757",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174531.5116966
+    },
+    "created_at": 1776174531.5117793,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "555398dc-9959-4d96-a174-f6f6309c675a",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174531.5260124
+    },
+    "created_at": 1776174531.526047,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "91c49439-beb1-42fe-85c1-742bb81d9517",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174531.5544262
+    },
+    "created_at": 1776174531.554484,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "d7bb5be8-033f-4c52-bc4c-6d94bd633dab",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174531.6176953
+    },
+    "created_at": 1776174531.617756,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "7a86db51-d923-4405-b828-5bedec03db68",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174531.68916
+    },
+    "created_at": 1776174531.6892345,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "2948af2a-00a0-4a46-81d1-b36cf286b515",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174531.7823255
+    },
+    "created_at": 1776174531.7823715,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "312f3365-3b94-4803-b874-2e844e617837",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174531.8484707
+    },
+    "created_at": 1776174531.8485377,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "9d0aaf0a-36bc-4117-8001-18c37f40733b",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174531.9162457
+    },
+    "created_at": 1776174531.9162846,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "f1edef67-5d57-4d75-b39d-0d431f17a27f",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174532.0075
+    },
+    "created_at": 1776174532.0075598,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "43c9b23d-f23b-4a46-9c15-a21dcb1cf214",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174532.0395372
+    },
+    "created_at": 1776174532.0395775,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "c2e6cb33-7d75-42c3-9d04-7080f9a94326",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174532.1004333
+    },
+    "created_at": 1776174532.1004891,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "8238ce45-54ff-4a99-8cf2-19282e076301",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174532.1107967
+    },
+    "created_at": 1776174532.1108506,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "f0900e1b-0191-4d0c-a5e4-977a23f36fe5",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174532.3279567
+    },
+    "created_at": 1776174532.3280082,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "54b1e306-9cc4-4d68-84d5-57a2ca8588ac",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174532.354944
+    },
+    "created_at": 1776174532.3550391,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "2f0fd7d3-e48f-43f6-a660-8cf713b5a241",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174532.3679318
+    },
+    "created_at": 1776174532.3679967,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "6532baf5-2967-40c1-b7d3-7d5abca51516",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174532.473185
+    },
+    "created_at": 1776174532.4732726,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "e2bda283-22b9-4011-801c-94169c028708",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174532.5539587
+    },
+    "created_at": 1776174532.5540354,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "de789788-fb7d-44df-a188-d6eb082b1081",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174532.649051
+    },
+    "created_at": 1776174532.6490998,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "4ffca1fc-3955-4914-80c0-4cfab02daacf",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-E9",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174532.8662937
+    },
+    "created_at": 1776174532.866333,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "aa285f46-9b24-4827-8ac4-9bdb06542083",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174532.9815493
+    },
+    "created_at": 1776174532.9816282,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "b69152d9-6f3e-403a-977d-99256135f155",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174532.992239
+    },
+    "created_at": 1776174532.9923246,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "00844be0-05eb-4f74-ad69-1bd0b68732e3",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174533.0310829
+    },
+    "created_at": 1776174533.0311491,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "bc7c6494-38f6-4817-bd39-db054c03628e",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174533.1097703
+    },
+    "created_at": 1776174533.1098437,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "287756ab-abde-4e45-9843-7412cf9e0f5b",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174533.2045083
+    },
+    "created_at": 1776174533.204541,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "6f1e9426-41b7-4024-983f-260f5142bea7",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-A1",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174533.216162
+    },
+    "created_at": 1776174533.2162297,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "1ad4e569-d493-4522-a755-eb669f0fed7e",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174533.2171469
+    },
+    "created_at": 1776174533.217162,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "7d79419e-1ba3-46fb-af89-af064491ab53",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174533.3373384
+    },
+    "created_at": 1776174533.3374043,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "24ba1e4b-888d-4ae2-b36a-75b8dfd0f6a6",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174533.3931346
+    },
+    "created_at": 1776174533.3932245,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "5c353062-5849-401e-9eb0-50c55f5a1190",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174533.4261305
+    },
+    "created_at": 1776174533.4262042,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Humidity out of range",
+    "msg_id": "9d8780f3-debe-43da-ac23-c57633bc3b34",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "humidity",
+      "value": -999.0,
+      "timestamp": 1776174533.7798064
+    },
+    "created_at": 1776174533.7798898,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "0c1eb48f-920c-4031-944d-7790c720f1d0",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174533.8184137
+    },
+    "created_at": 1776174533.818481,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "2b535592-7bbf-43dd-a7bc-94397a5ef205",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174533.8596776
+    },
+    "created_at": 1776174533.8597383,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "a878c552-e891-4d69-a845-7d7b5241d1a4",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": NaN,
+      "timestamp": 1776174533.9017403
+    },
+    "created_at": 1776174533.9017987,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "2b9324b9-5fda-427d-b6ba-38bbf0eb1959",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-D2",
+      "metric": "humidity",
+      "value": NaN,
+      "timestamp": 1776174533.9235044
+    },
+    "created_at": 1776174533.9235501,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Value is NaN/Inf",
+    "msg_id": "1ad4c6e7-3e23-4d35-942b-42016ffbe83f",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "luminosity",
+      "value": NaN,
+      "timestamp": 1776174533.9340136
+    },
+    "created_at": 1776174533.9340498,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Luminosity out of range",
+    "msg_id": "c46ff22d-486e-4284-a33e-ddbd0b8b0277",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-B3",
+      "metric": "luminosity",
+      "value": -999.0,
+      "timestamp": 1776174534.0022275
+    },
+    "created_at": 1776174534.00231,
+    "attempts": 3,
+    "max_attempts": 3
+  },
+  {
+    "reason": "Temperature out of range",
+    "msg_id": "28ac7ca7-1ae9-4248-92a7-1dafe9c210a3",
+    "msg_type": "sensor_reading",
+    "payload": {
+      "sensor_id": "sensor-C7",
+      "metric": "temperature",
+      "value": -999.0,
+      "timestamp": 1776174534.0312362
+    },
+    "created_at": 1776174534.0313818,
+    "attempts": 3,
+    "max_attempts": 3
+  }
+]

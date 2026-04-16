@@ -1,0 +1,4 @@
+{"rpc_id": "6aee65e0-68a0-4c2d-a03d-a3b937e60101", "method": "health.ping", "status": "ok", "latency_ms": 0.46}
+{"rpc_id": "3cd79f6e-7685-4f1e-80a8-0116b51bce5c", "method": "ingest.batch", "status": "ok", "latency_ms": 2.33}
+{"rpc_id": "8393d7ee-236d-4145-932b-202ea47b021e", "method": "stats.daily_summary", "status": "ok", "latency_ms": 0.25}
+{"rpc_id": "b136fc31-918b-40d2-9f37-cb9fcaaafa81", "method": "stats.top_sensors", "status": "ok", "latency_ms": 0.38}

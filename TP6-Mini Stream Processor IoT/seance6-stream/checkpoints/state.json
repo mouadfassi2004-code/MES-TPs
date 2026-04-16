@@ -1,0 +1,13 @@
+{
+  "max_event_time": 1748768600.0,
+  "events_processed": 7,
+  "state": {
+    "sensor_B|1748768580": {
+      "count": 1,
+      "sum_temp": 21.5,
+      "sum_humidity": 68.0,
+      "min_temp": 21.5,
+      "max_temp": 21.5
+    }
+  }
+}

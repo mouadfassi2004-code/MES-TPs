@@ -1,0 +1,12 @@
+2026-04-16 19:54:44,097 | INFO | request_id=7951d942-9128-403c-9821-94aa3db9d7bb | attempt=1 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:54:47,153 | INFO | request_id=7951d942-9128-403c-9821-94aa3db9d7bb | attempt=2 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:54:50,178 | INFO | request_id=7951d942-9128-403c-9821-94aa3db9d7bb | attempt=3 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:54:53,227 | INFO | request_id=e6b14390-a6ae-4648-9c64-14e2ee4fe9c7 | attempt=1 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:54:56,274 | INFO | request_id=e6b14390-a6ae-4648-9c64-14e2ee4fe9c7 | attempt=2 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:54:59,306 | INFO | request_id=e6b14390-a6ae-4648-9c64-14e2ee4fe9c7 | attempt=3 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:55:02,330 | INFO | request_id=4e5971dd-1373-42df-8e6d-ad5a85dc07ff | attempt=1 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:55:05,368 | INFO | request_id=4e5971dd-1373-42df-8e6d-ad5a85dc07ff | attempt=2 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:55:08,393 | INFO | request_id=4e5971dd-1373-42df-8e6d-ad5a85dc07ff | attempt=3 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:55:11,413 | INFO | request_id=a7ea225b-1ffa-4774-94c3-efc20c42b1b0 | attempt=1 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:55:14,443 | INFO | request_id=a7ea225b-1ffa-4774-94c3-efc20c42b1b0 | attempt=2 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+2026-04-16 19:55:17,487 | INFO | request_id=a7ea225b-1ffa-4774-94c3-efc20c42b1b0 | attempt=3 | error=[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée

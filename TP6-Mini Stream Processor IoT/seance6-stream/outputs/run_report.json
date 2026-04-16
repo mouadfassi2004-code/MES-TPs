@@ -1,0 +1,10 @@
+{
+  "processed": 8,
+  "on_time": 6,
+  "late_accepted": 1,
+  "dropped": 1,
+  "flushed_windows": 5,
+  "avg_latency_ms": 0.65,
+  "throughput_eps": 4.9,
+  "elapsed_seconds": 1.63
+}

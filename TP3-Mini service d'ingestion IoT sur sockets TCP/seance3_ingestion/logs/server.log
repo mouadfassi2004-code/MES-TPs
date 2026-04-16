@@ -1,0 +1,4 @@
+2026-04-16 12:44:34 [INFO] ingestion.server — Serveur démarré sur 127.0.0.1:5000
+2026-04-16 12:44:58 [INFO] ingestion.server — Connexion acceptée depuis 127.0.0.1:57525
+2026-04-16 12:44:58 [INFO] ingestion.server — [8f6d8caf-d463-447e-b692-2aeac404cbae] Message reçu : type=ingest_request
+2026-04-16 12:44:58 [INFO] ingestion.server — [8f6d8caf-d463-447e-b692-2aeac404cbae] Réponse envoyée : accepted=3, rejected=3

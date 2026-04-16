@@ -1,0 +1,19 @@
+2026-04-16 19:10:13 | INFO    | checkpoint | Pas de checkpoint trouvé, démarrage à froid.
+2026-04-16 19:10:13 | INFO    | processor | ON_TIME event_id=evt-001 sensor_id=sensor_A window_start=1748768400
+2026-04-16 19:10:13 | INFO    | processor | ON_TIME event_id=evt-002 sensor_id=sensor_B window_start=1748768400
+2026-04-16 19:10:13 | INFO    | processor | ON_TIME event_id=evt-003 sensor_id=sensor_A window_start=1748768400
+2026-04-16 19:10:13 | INFO    | processor | ON_TIME event_id=evt-004 sensor_id=sensor_A window_start=1748768460
+2026-04-16 19:10:13 | INFO    | processor | Flush de 2 fenêtre(s) closes
+2026-04-16 19:10:14 | INFO    | processor | ON_TIME event_id=evt-005 sensor_id=sensor_B window_start=1748768460
+2026-04-16 19:10:14 | INFO    | processor | LATE_ACCEPT event_id=evt-006 sensor_id=sensor_A window_start=1748768400
+2026-04-16 19:10:14 | INFO    | processor | Flush de 1 fenêtre(s) closes
+2026-04-16 19:10:14 | INFO    | processor | ON_TIME event_id=evt-007 sensor_id=sensor_B window_start=1748768580
+2026-04-16 19:10:14 | INFO    | processor | Flush de 2 fenêtre(s) closes
+2026-04-16 19:10:14 | WARNING | processor | DROP event_id=evt-008 sensor_id=sensor_A event_time=2025-06-01T10:00:20 watermark=1748768595
+2026-04-16 19:10:14 | INFO    | main | Fin du flux reçue.
+2026-04-16 19:10:14 | INFO    | checkpoint | Checkpoint sauvegardé → checkpoints/state.json (1 clés)
+2026-04-16 19:10:14 | INFO    | main | Traitement terminé.
+2026-04-16 19:10:14 | INFO    | main | Aggregates: outputs/aggregates.csv
+2026-04-16 19:10:14 | INFO    | main | Late events: outputs/late_events.csv
+2026-04-16 19:10:14 | INFO    | main | Dropped events: outputs/dropped_events.csv
+2026-04-16 19:10:14 | INFO    | main | Run report: outputs/run_report.json

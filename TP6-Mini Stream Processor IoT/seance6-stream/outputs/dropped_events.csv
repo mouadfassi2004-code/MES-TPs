@@ -1,0 +1,2 @@
+event_id,sensor_id,site_id,event_time,temperature_c,humidity_pct,soil_moisture
+evt-008,sensor_A,site_1,2025-06-01T10:00:20,22.0,66.0,0.43

@@ -1,0 +1,56 @@
+[
+  {
+    "sensor_id": "temp_01",
+    "type": "temperature",
+    "value": 23.5,
+    "unit": "°C",
+    "timestamp": "2026-02-23T08:00:00",
+    "pump_status": null,
+    "irrigation_mm": null
+  },
+  {
+    "sensor_id": "hum_01",
+    "type": "humidity",
+    "value": 68.2,
+    "unit": "%",
+    "timestamp": "2026-02-23T08:00:00",
+    "pump_status": null,
+    "irrigation_mm": null
+  },
+  {
+    "sensor_id": "rain_01",
+    "type": "rainfall",
+    "value": 12.0,
+    "unit": "mm",
+    "timestamp": "2026-02-23T08:00:00",
+    "pump_status": null,
+    "irrigation_mm": null
+  },
+  {
+    "sensor_id": "temp_02",
+    "type": "temperature",
+    "value": -999.0,
+    "unit": "°C",
+    "timestamp": "2026-02-23T08:00:00",
+    "pump_status": null,
+    "irrigation_mm": null
+  },
+  {
+    "sensor_id": "",
+    "type": "humidity",
+    "value": 45.0,
+    "unit": "%",
+    "timestamp": "2026-02-23T08:00:00",
+    "pump_status": null,
+    "irrigation_mm": null
+  },
+  {
+    "sensor_id": "pump_01",
+    "type": "irrigation",
+    "value": 5.0,
+    "unit": "mm",
+    "timestamp": "",
+    "pump_status": "on",
+    "irrigation_mm": 0.0
+  }
+]

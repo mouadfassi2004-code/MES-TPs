@@ -1,0 +1,10 @@
+{"event_id": "e-00005", "sensor_id": "sensor-HOT-01", "site_id": "SITE-03", "event_time": "2026-04-20T08:05:00", "temp_c": 28.0, "hum_pct": 51.0, "partition_key": "sensor-HOT-01"}
+{"event_id": "e-00006", "sensor_id": "sensor-HOT-01", "site_id": "SITE-03", "event_time": "2026-04-20T08:06:00", "temp_c": 26.0, "hum_pct": 52.0, "partition_key": "sensor-HOT-01"}
+{"event_id": "e-00007", "sensor_id": "sensor-HOT-01", "site_id": "SITE-03", "event_time": "2026-04-20T08:07:00", "temp_c": 27.0, "hum_pct": 53.0, "partition_key": "sensor-HOT-01"}
+{"event_id": "e-00008", "sensor_id": "sensor-HOT-01", "site_id": "SITE-03", "event_time": "2026-04-20T08:08:00", "temp_c": 28.0, "hum_pct": 50.0, "partition_key": "sensor-HOT-01"}
+{"event_id": "e-00009", "sensor_id": "sensor-HOT-01", "site_id": "SITE-03", "event_time": "2026-04-20T08:09:00", "temp_c": 26.0, "hum_pct": 51.0, "partition_key": "sensor-HOT-01"}
+{"event_id": "e-00010", "sensor_id": "sensor-HOT-01", "site_id": "SITE-03", "event_time": "2026-04-20T08:10:00", "temp_c": 27.0, "hum_pct": 52.0, "partition_key": "sensor-HOT-01"}
+{"event_id": "e-00011", "sensor_id": "sensor-HOT-01", "site_id": "SITE-03", "event_time": "2026-04-20T08:11:00", "temp_c": 28.0, "hum_pct": 53.0, "partition_key": "sensor-HOT-01"}
+{"event_id": "e-00012", "sensor_id": "sensor-HOT-01", "site_id": "SITE-03", "event_time": "2026-04-20T08:12:00", "temp_c": 26.0, "hum_pct": 50.0, "partition_key": "sensor-HOT-01"}
+{"event_id": "e-00013", "sensor_id": "sensor-HOT-01", "site_id": "SITE-03", "event_time": "2026-04-20T08:13:00", "temp_c": 27.0, "hum_pct": 51.0, "partition_key": "sensor-HOT-01"}
+{"event_id": "e-00014", "sensor_id": "sensor-HOT-01", "site_id": "SITE-03", "event_time": "2026-04-20T08:14:00", "temp_c": 28.0, "hum_pct": 52.0, "partition_key": "sensor-HOT-01"}

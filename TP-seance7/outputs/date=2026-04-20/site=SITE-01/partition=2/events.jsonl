@@ -1,0 +1,2 @@
+{"event_id": "e-00001", "sensor_id": "sensor-01", "site_id": "SITE-01", "event_time": "2026-04-20T08:00:00", "temp_c": 22.3, "hum_pct": 58.2, "partition_key": "sensor-01"}
+{"event_id": "e-00002", "sensor_id": "sensor-02", "site_id": "SITE-01", "event_time": "2026-04-20T08:01:00", "temp_c": 23.1, "hum_pct": 57.0, "partition_key": "sensor-02"}

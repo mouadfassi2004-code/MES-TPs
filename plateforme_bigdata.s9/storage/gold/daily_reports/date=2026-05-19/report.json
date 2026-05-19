@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-05-19T19:42:56+00:00",
+  "date": "2026-05-19",
+  "rows": [
+    {
+      "date": "2026-05-19",
+      "restaurant_id": "R001",
+      "total_orders": 1,
+      "total_revenue": 120.0,
+      "avg_basket": 120.0,
+      "last_backlog": 2
+    },
+    {
+      "date": "2026-05-19",
+      "restaurant_id": "R002",
+      "total_orders": 1,
+      "total_revenue": 0.0,
+      "avg_basket": 0.0,
+      "last_backlog": 0
+    }
+  ]
+}

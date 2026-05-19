@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-05-19T19:42:56+00:00",
+  "task": "compute_daily_report",
+  "status": "success",
+  "rows_read": 5,
+  "rows_written": 2,
+  "rows_rejected": 0
+}

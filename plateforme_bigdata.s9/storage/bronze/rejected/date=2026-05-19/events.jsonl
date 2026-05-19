@@ -1,0 +1,1 @@
+{"event_type": "order", "server_ts": "2026-05-19T19:42:56+00:00", "errors": ["restaurant_id inconnu"], "raw_event": {"event_id": "EVT-004", "order_id": "ORD-003", "restaurant_id": "R999", "order_type": "delivery", "status": "received", "amount": 80.0, "items_count": 1, "event_ts": "2026-05-19T19:42:56+00:00", "source": "mobile_app"}}

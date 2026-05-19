@@ -1,0 +1,1 @@
+{"offset": 0, "topic": "restaurant.snapshots.v1", "value": {"snapshot_id": "SNP-001", "restaurant_id": "R001", "event_ts": "2026-05-19T19:42:56+00:00", "orders_in_progress": 5, "avg_prep_time_seconds": 900, "backlog_orders": 2, "active_staff": 6, "server_ts": "2026-05-19T19:42:56+00:00", "schema_version": "v1"}}

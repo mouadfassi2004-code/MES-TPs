@@ -1,0 +1,1 @@
+{"timestamp": "2026-05-19T19:42:56+00:00", "orders_in_progress_by_restaurant": {"R001": 1, "R002": 1}, "revenue_by_restaurant": {"R001": 120.0}, "metrics": {"timestamp": "2026-05-19T19:42:56+00:00", "events_processed": 4, "invalid_events": 0, "late_events": 0}}

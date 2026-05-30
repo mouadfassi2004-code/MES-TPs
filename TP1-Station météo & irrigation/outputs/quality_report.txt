@@ -1,0 +1,22 @@
+RAPPORT QUALITÉ - TP1 Station météo & irrigation
+
+Lignes initiales : 16
+Lignes finales : 13
+
+Traitements réalisés :
+- Suppression d'un doublon.
+- Suppression de deux lignes avec date invalide ou manquante.
+- Conversion des colonnes numériques.
+- Correction d'une température hors domaine.
+- Correction d'une humidité hors domaine.
+- Détection d'un outlier dans wind_kmh.
+- Imputation des valeurs manquantes.
+
+Fichiers générés :
+- meteo_clean.csv
+- meteo_features.csv
+- quality_report.txt
+- pipeline.log
+
+Conclusion :
+Le pipeline produit un dataset propre et un dataset enrichi avec des variables utiles pour l'analyse météo et irrigation.

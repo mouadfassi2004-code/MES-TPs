@@ -1,0 +1,8 @@
+2026-05-31 12:00:00 [INFO] meteo_pipeline - PIPELINE : démarrage
+2026-05-31 12:00:00 [INFO] meteo_pipeline - EXTRACT : 16 lignes et 8 colonnes lues depuis data/raw/meteo_brut.csv
+2026-05-31 12:00:00 [INFO] meteo_pipeline - TRANSFORM : début du nettoyage
+2026-05-31 12:00:00 [WARNING] meteo_pipeline - TRANSFORM : 1 doublon supprimé
+2026-05-31 12:00:00 [WARNING] meteo_pipeline - TRANSFORM : 2 lignes supprimées à cause de date invalide/manquante
+2026-05-31 12:00:00 [INFO] meteo_pipeline - FEATURES : features ajoutées
+2026-05-31 12:00:00 [INFO] meteo_pipeline - LOAD : fichiers écrits dans outputs/
+2026-05-31 12:00:00 [INFO] meteo_pipeline - PIPELINE : terminé avec succès

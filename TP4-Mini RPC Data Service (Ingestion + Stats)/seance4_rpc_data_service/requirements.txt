@@ -1,0 +1,2 @@
+﻿# Aucune dépendance externe nécessaire
+# Projet compatible avec Python 3.x

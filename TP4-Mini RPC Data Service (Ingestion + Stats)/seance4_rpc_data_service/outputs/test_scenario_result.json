@@ -1,0 +1,57 @@
+{
+  "executed_at": "2026-05-31T00:54:37.653291",
+  "endpoint": "http://127.0.0.1:8080/rpc",
+  "tests": {
+    "health_ping": {
+      "rpc_version": "1.0",
+      "id": "4964a673-faac-480b-bfc8-5937cec63a04",
+      "result": {
+        "status": "ok"
+      },
+      "error": null
+    },
+    "ingest_batch": {
+      "rpc_version": "1.0",
+      "id": "891d7997-ed1f-4581-933c-9e0d99b4b943",
+      "result": {
+        "accepted": 3,
+        "rejected": 3,
+        "duplicate": false
+      },
+      "error": null
+    },
+    "duplicate_batch": {
+      "rpc_version": "1.0",
+      "id": "86abf89d-7534-470d-b624-335b3c79b484",
+      "result": {
+        "accepted": 0,
+        "rejected": 0,
+        "duplicate": true,
+        "message": "batch déjà traité"
+      },
+      "error": null
+    },
+    "daily_summary": {
+      "rpc_version": "1.0",
+      "id": "f29cbc06-fcd2-4c2a-bf57-4f6dff779944",
+      "result": {
+        "date": "2026-03-09",
+        "count": 3,
+        "avg": 12.200000000000001,
+        "min": -5.1,
+        "max": 23.5
+      },
+      "error": null
+    },
+    "unknown_method": {
+      "rpc_version": "1.0",
+      "id": "ff80bac1-dfdc-4605-8f4d-115ec80dcb01",
+      "result": null,
+      "error": {
+        "code": -32601,
+        "message": "Method not found: unknown.method",
+        "details": ""
+      }
+    }
+  }
+}

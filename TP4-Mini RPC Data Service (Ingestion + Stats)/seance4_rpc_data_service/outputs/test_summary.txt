@@ -1,0 +1,28 @@
+﻿TP4 - Mini RPC Data Service - Ingestion + Stats
+
+Résumé du test :
+
+1. Le serveur RPC est lancé sur http://127.0.0.1:8080/rpc.
+2. Le client appelle la méthode health.ping.
+3. Le client envoie un batch de lectures avec ingest.batch.
+4. Le serveur accepte les lectures valides et rejette les lectures invalides.
+5. Le client renvoie le même batch_id pour tester l'idempotence.
+6. Le client appelle stats.daily_summary pour calculer les statistiques.
+7. Le client teste une méthode inconnue pour vérifier la gestion des erreurs.
+
+Fichiers importants :
+- src/server.py
+- src/client.py
+- src/rpc_protocol.py
+- src/router.py
+- src/services.py
+- src/observability.py
+- test_scenario.py
+- outputs/ingested_data.csv
+- outputs/run_report.json
+- outputs/test_scenario_result.json
+- logs/server.log
+- logs/client.log
+
+Conclusion :
+Le TP fonctionne comme un mini service RPC Big Data avec ingestion, statistiques, gestion d'erreurs, retries, logs et métriques.

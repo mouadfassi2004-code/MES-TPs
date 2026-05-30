@@ -1,2 +1,7 @@
 {"rpc_id": "5172a535-56da-4c69-9595-5e3b6d833d11", "method": "health.ping", "status": "received", "latency_ms": 54.85, "attempt": 1}
 {"rpc_id": "2e94a2b4-cb39-4585-9ef1-ccf33abd4b3f", "method": "ingest.batch", "status": "received", "latency_ms": 25.44, "attempt": 1}
+{"rpc_id": "4964a673-faac-480b-bfc8-5937cec63a04", "method": "health.ping", "status": "received", "latency_ms": 31.0, "attempt": 1}
+{"rpc_id": "891d7997-ed1f-4581-933c-9e0d99b4b943", "method": "ingest.batch", "status": "received", "latency_ms": 16.0, "attempt": 1}
+{"rpc_id": "86abf89d-7534-470d-b624-335b3c79b484", "method": "ingest.batch", "status": "received", "latency_ms": 15.0, "attempt": 1}
+{"rpc_id": "f29cbc06-fcd2-4c2a-bf57-4f6dff779944", "method": "stats.daily_summary", "status": "received", "latency_ms": 0.0, "attempt": 1}
+{"rpc_id": "ff80bac1-dfdc-4605-8f4d-115ec80dcb01", "method": "unknown.method", "status": "received", "latency_ms": 16.0, "attempt": 1}

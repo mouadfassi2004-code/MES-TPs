@@ -1,0 +1,10 @@
+2026-05-31 12:00:00 | WARNING | Lecture rejetée au constructeur | sensor_id= | erreur=sensor_id ne doit pas être vide
+2026-05-31 12:00:00 | INFO    | Début traitement request_id=<uuid> | api_key=****1234 | nb_readings=4
+2026-05-31 12:00:00 | INFO    | Lecture acceptée | sensor_id=sensor-01 | site_id=site-alpha
+2026-05-31 12:00:00 | WARNING | Lecture rejetée | sensor_id=sensor-02 | nb_erreurs=1
+2026-05-31 12:00:00 | WARNING | Erreur validation | field=humidity_pct | code=OUT_OF_RANGE
+2026-05-31 12:00:00 | WARNING | Lecture rejetée | sensor_id=sensor-04 | nb_erreurs=1
+2026-05-31 12:00:00 | WARNING | Erreur validation | field=temperature_c | code=OUT_OF_RANGE
+2026-05-31 12:00:00 | WARNING | Lecture rejetée | sensor_id=sensor-05 | nb_erreurs=1
+2026-05-31 12:00:00 | WARNING | Erreur validation | field=timestamp | code=MISSING
+2026-05-31 12:00:00 | INFO    | Tous les asserts de vérification sont passés avec succès.

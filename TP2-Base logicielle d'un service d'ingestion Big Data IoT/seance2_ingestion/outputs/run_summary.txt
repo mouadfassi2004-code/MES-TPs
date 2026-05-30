@@ -1,0 +1,23 @@
+TP2 - Base logicielle d'un service d'ingestion Big Data IoT
+
+Résumé d'exécution :
+
+Le programme lit les données simulées depuis data/sample_readings.json.
+Il construit une requête d'ingestion à partir des mesures valides au niveau constructeur.
+Ensuite, il applique trois validateurs :
+- RequiredFieldsValidator
+- RangeValidator
+- ConsistencyValidator
+
+Résultat obtenu :
+- 1 lecture acceptée
+- 3 lectures rejetées par les validateurs
+- 1 lecture rejetée au constructeur à cause d'un sensor_id vide
+
+Erreurs détectées :
+- humidity_pct hors plage [0, 100]
+- temperature_c hors plage [-50, 60]
+- timestamp manquant
+- sensor_id vide
+
+Les tests internes du fichier main.py passent avec succès.

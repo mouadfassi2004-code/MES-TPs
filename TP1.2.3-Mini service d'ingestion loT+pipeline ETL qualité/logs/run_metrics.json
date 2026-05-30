@@ -1,0 +1,10 @@
+﻿{
+  "messages_received": 5,
+  "messages_accepted": 3,
+  "messages_rejected": 2,
+  "average_processing_time_ms": 2.25,
+  "top_reject_reasons": {
+    "Temperature out of realistic range": 1,
+    "Invalid timestamp format": 1
+  }
+}

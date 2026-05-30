@@ -1,0 +1,50 @@
+﻿QUALITY REPORT - TP1.2.3 Mini service d'ingestion IoT + pipeline ETL qualité
+==========================================================================
+
+1. Données d'entrée
+
+Fichier source :
+- data/accepted_data.jsonl
+
+Nombre de lignes initiales :
+- 4 lignes acceptées
+
+2. Contrôles réalisés
+
+Le pipeline vérifie :
+- la présence du fichier source ;
+- la validité des timestamps ;
+- la conversion des colonnes numériques ;
+- la suppression des doublons par request_id ;
+- la gestion des valeurs manquantes ;
+- la détection d'outliers sur temperature et humidity ;
+- l'enrichissement des données avec des features.
+
+3. Nettoyage appliqué
+
+Traitements :
+- conversion de timestamp au format datetime ;
+- conversion de temperature, humidity, pm25, pm10, ozone, no2 et battery en numérique ;
+- imputation par médiane si nécessaire ;
+- normalisation de irrigation ;
+- création de battery_status.
+
+4. Features créées
+
+- hour : heure de la mesure ;
+- comfort_index : indice simple combinant température et humidité ;
+- battery_status : LOW si battery < 20, sinon OK ;
+- pollution_index : moyenne de pm25, pm10, ozone et no2 ;
+- irrigation_binary : 1 si irrigation ON, sinon 0.
+
+5. Fichiers générés
+
+- outputs/cleaned_data.csv
+- outputs/enriched_data.csv
+- outputs/quality_report.txt
+- logs/etl.log
+- logs/run_metrics.json
+
+6. Conclusion
+
+Le pipeline permet de passer d'une zone de données acceptées à des données nettoyées et enrichies, prêtes pour une analyse Big Data.

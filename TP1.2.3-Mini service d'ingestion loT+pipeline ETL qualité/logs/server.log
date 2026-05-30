@@ -1,0 +1,6 @@
+﻿2026-05-31 12:00:00 | INFO | Server started on 127.0.0.1:5000
+2026-05-31 12:00:05 | INFO | request_id=REQ-001 | type=ingest | decision=accept | processing_time_ms=2.40
+2026-05-31 12:00:06 | INFO | request_id=REQ-002 | type=ingest | decision=accept | processing_time_ms=2.10
+2026-05-31 12:00:07 | INFO | request_id=REQ-003 | type=ingest | decision=accept | processing_time_ms=2.25
+2026-05-31 12:00:08 | WARNING | request_id=REQ-004 | type=ingest | decision=reject | errors=["Temperature out of realistic range"]
+2026-05-31 12:00:09 | WARNING | request_id=REQ-005 | type=ingest | decision=reject | errors=["Invalid timestamp format"]

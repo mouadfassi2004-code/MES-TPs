@@ -1,0 +1,5 @@
+﻿request_id,sensor_id,site_id,timestamp,temperature,humidity,irrigation,pm25,pm10,ozone,no2,battery,hour,comfort_index,battery_status,pollution_index,irrigation_binary
+REQ-001,S001,ZoneA,2026-04-16 10:00:00,24.5,55,ON,12.4,28.0,45.0,22.0,78,10,15.5,OK,26.85,1
+REQ-002,S002,ZoneB,2026-04-16 10:05:00,26.1,49,OFF,18.2,33.5,50.0,27.0,15,10,15.9,LOW,32.18,0
+REQ-003,S003,ZoneC,2026-04-16 10:10:00,22.8,61,ON,20.5,40.0,55.0,31.0,65,10,15.0,OK,36.63,1
+REQ-006,S006,ZoneA,2026-04-16 10:20:00,25.0,52,OFF,14.7,29.0,47.0,23.0,88,10,15.4,OK,28.43,0

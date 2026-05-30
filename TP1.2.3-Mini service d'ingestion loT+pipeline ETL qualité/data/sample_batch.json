@@ -1,0 +1,72 @@
+﻿[
+  {
+    "request_id": "REQ-001",
+    "sensor_id": "S001",
+    "site_id": "ZoneA",
+    "timestamp": "2026-04-16 10:00:00",
+    "temperature": 24.5,
+    "humidity": 55,
+    "irrigation": "ON",
+    "pm25": 12.4,
+    "pm10": 28.0,
+    "ozone": 45.0,
+    "no2": 22.0,
+    "battery": 78
+  },
+  {
+    "request_id": "REQ-002",
+    "sensor_id": "S002",
+    "site_id": "ZoneB",
+    "timestamp": "2026-04-16 10:05:00",
+    "temperature": 26.1,
+    "humidity": 49,
+    "irrigation": "OFF",
+    "pm25": 18.2,
+    "pm10": 33.5,
+    "ozone": 50.0,
+    "no2": 27.0,
+    "battery": 15
+  },
+  {
+    "request_id": "REQ-003",
+    "sensor_id": "S003",
+    "site_id": "ZoneC",
+    "timestamp": "16/04/2026 10:10:00",
+    "temperature": 22.8,
+    "humidity": 61,
+    "irrigation": "OUI",
+    "pm25": 20.5,
+    "pm10": 40.0,
+    "ozone": 55.0,
+    "no2": 31.0,
+    "battery": 65
+  },
+  {
+    "request_id": "REQ-004",
+    "sensor_id": "S004",
+    "site_id": "ZoneA",
+    "timestamp": "2026-04-16 10:15:00",
+    "temperature": 999,
+    "humidity": 58,
+    "irrigation": "ON",
+    "pm25": 14.0,
+    "pm10": 30.0,
+    "ozone": 48.0,
+    "no2": 24.0,
+    "battery": 82
+  },
+  {
+    "request_id": "REQ-005",
+    "sensor_id": "S005",
+    "site_id": "ZoneB",
+    "timestamp": "not-a-date",
+    "temperature": 23.0,
+    "humidity": 45,
+    "irrigation": "OFF",
+    "pm25": 16.0,
+    "pm10": 32.0,
+    "ozone": 49.0,
+    "no2": 25.0,
+    "battery": 40
+  }
+]

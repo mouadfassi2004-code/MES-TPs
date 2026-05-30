@@ -1,0 +1,7 @@
+﻿2026-05-31 12:00:00 | INFO | ETL started
+2026-05-31 12:00:00 | INFO | Loaded rows: 4
+2026-05-31 12:00:00 | INFO | Rows after dropping duplicate request_id: 4
+2026-05-31 12:00:00 | INFO | Saved cleaned data to outputs/cleaned_data.csv
+2026-05-31 12:00:00 | INFO | Saved enriched data to outputs/enriched_data.csv
+2026-05-31 12:00:00 | INFO | Quality report generated
+2026-05-31 12:00:00 | INFO | ETL finished successfully

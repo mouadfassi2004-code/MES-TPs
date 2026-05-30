@@ -1,0 +1,25 @@
+﻿TP3 - Mini service d'ingestion IoT sur sockets TCP
+
+Résumé du test :
+
+1. Le serveur TCP est lancé sur 127.0.0.1:5000.
+2. Le client lit les données depuis data/sample_readings.json.
+3. Le client construit une requête JSON de type ingest_request.
+4. La requête est envoyée au serveur via socket TCP.
+5. Le serveur décode le message, valide les mesures et renvoie une réponse.
+6. Le client reçoit la réponse et sauvegarde le résultat dans outputs.
+7. Les logs client et serveur sont générés dans le dossier logs.
+
+Fichiers importants :
+- src/server.py
+- src/client.py
+- src/protocol.py
+- src/models.py
+- src/validators.py
+- data/sample_readings.json
+- logs/server.log
+- logs/client.log
+- outputs/test_summary.txt
+
+Conclusion :
+Le TP fonctionne comme un mini service distribué d'ingestion IoT utilisant TCP, JSON, validation et observabilité.

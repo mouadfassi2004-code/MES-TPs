@@ -1,3 +1,6 @@
 2026-04-16 12:44:58 [INFO] ingestion.client — [8f6d8caf-d463-447e-b692-2aeac404cbae] Connecté au serveur 127.0.0.1:5000
 2026-04-16 12:44:58 [INFO] ingestion.client — [8f6d8caf-d463-447e-b692-2aeac404cbae] Requête envoyée : 6 lectures
 2026-04-16 12:44:58 [INFO] ingestion.client — [8f6d8caf-d463-447e-b692-2aeac404cbae] Réponse reçue
+2026-05-31 00:44:58 [INFO] ingestion.client — [62a3a747-3592-408e-abf2-a36384e0ce58] Connecté au serveur 127.0.0.1:5000
+2026-05-31 00:44:58 [INFO] ingestion.client — [62a3a747-3592-408e-abf2-a36384e0ce58] Requête envoyée : 6 lectures
+2026-05-31 00:44:58 [INFO] ingestion.client — [62a3a747-3592-408e-abf2-a36384e0ce58] Réponse reçue

@@ -1,0 +1,33 @@
+{
+  "version": "v1",
+  "type": "ingest_response",
+  "request_id": "62a3a747-3592-408e-abf2-a36384e0ce58",
+  "sent_at": "2026-05-31T00:44:58.215637",
+  "payload": {
+    "status": "partial",
+    "accepted_count": 3,
+    "rejected_count": 3,
+    "errors": [
+      {
+        "field": "value",
+        "code": "OUT_OF_RANGE",
+        "message": "température hors plage [-50, 60] : -999.0"
+      },
+      {
+        "field": "sensor_id",
+        "code": "MISSING",
+        "message": "sensor_id est obligatoire"
+      },
+      {
+        "field": "timestamp",
+        "code": "MISSING",
+        "message": "timestamp est obligatoire"
+      },
+      {
+        "field": "irrigation_mm",
+        "code": "INCONSISTENT",
+        "message": "si pump_status == on, irrigation_mm doit être > 0"
+      }
+    ]
+  }
+}

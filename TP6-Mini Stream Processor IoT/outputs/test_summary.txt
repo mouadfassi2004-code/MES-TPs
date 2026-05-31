@@ -1,0 +1,22 @@
+﻿TP6 - Mini Stream Processor IoT
+
+Résumé du test :
+
+1. Les événements IoT sont lus depuis les données d'entrée.
+2. Les timestamps sont analysés.
+3. Les événements valides sont traités par fenêtres temporelles.
+4. Les événements en retard sont sauvegardés dans late_events.json.
+5. Les événements invalides sont sauvegardés dans dropped_events.json.
+6. Les agrégations sont exportées dans aggregates.csv.
+7. L'état du traitement est sauvegardé dans checkpoints/state.json.
+8. Les logs sont écrits dans logs/stream_processor.log.
+
+Résultats simulés :
+- événements lus : 20
+- événements traités : 15
+- événements tardifs : 3
+- événements rejetés : 2
+- fenêtres produites : 4
+
+Conclusion :
+Le TP fonctionne comme un mini processeur de flux IoT avec fenêtres temporelles, watermark, late events, dropped events et checkpoints.

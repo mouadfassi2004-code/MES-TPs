@@ -1,0 +1,23 @@
+﻿[
+  {
+    "event_id": "evt-007",
+    "sensor_id": "S01",
+    "timestamp": "2026-05-31T11:59:30",
+    "value": 24.0,
+    "reason": "event received after watermark"
+  },
+  {
+    "event_id": "evt-011",
+    "sensor_id": "S02",
+    "timestamp": "2026-05-31T12:00:20",
+    "value": 22.5,
+    "reason": "late event"
+  },
+  {
+    "event_id": "evt-018",
+    "sensor_id": "S03",
+    "timestamp": "2026-05-31T12:01:10",
+    "value": 26.1,
+    "reason": "late event"
+  }
+]

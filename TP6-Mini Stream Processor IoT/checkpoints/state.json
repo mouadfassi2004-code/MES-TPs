@@ -1,0 +1,8 @@
+﻿{
+  "last_processed_event_time": "2026-05-31T12:04:00",
+  "watermark": "2026-05-31T12:03:30",
+  "processed_events": 15,
+  "late_events": 3,
+  "dropped_events": 2,
+  "windows_closed": 4
+}

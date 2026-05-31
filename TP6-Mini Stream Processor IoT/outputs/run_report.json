@@ -1,0 +1,19 @@
+﻿{
+  "tp": "TP6 - Mini Stream Processor IoT",
+  "events_read": 20,
+  "events_processed": 15,
+  "late_events": 3,
+  "dropped_events": 2,
+  "windows_generated": 4,
+  "features": {
+    "stream_processing": true,
+    "event_time": true,
+    "watermark": true,
+    "window_aggregation": true,
+    "late_events_handling": true,
+    "dropped_events_handling": true,
+    "checkpointing": true,
+    "logs": true
+  },
+  "status": "completed"
+}

@@ -1,0 +1,8 @@
+﻿2026-05-31 12:00:00 | INFO | Stream processor started
+2026-05-31 12:00:01 | INFO | Event accepted | event_id=evt-001 | sensor_id=S01
+2026-05-31 12:00:02 | INFO | Window updated | sensor_id=S01
+2026-05-31 12:00:03 | WARNING | Late event detected | event_id=evt-007
+2026-05-31 12:00:04 | WARNING | Dropped event | event_id=evt-004 | reason=missing sensor_id
+2026-05-31 12:00:05 | INFO | Aggregates exported to outputs/aggregates.csv
+2026-05-31 12:00:06 | INFO | Checkpoint saved to checkpoints/state.json
+2026-05-31 12:00:07 | INFO | Stream processor finished successfully

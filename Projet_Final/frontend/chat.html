@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>CampusBot - Chat</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="app-container">
+
+        <aside class="sidebar">
+            <div class="logo-box">
+                <img src="assets/logo-uemf.png" alt="Logo UEMF">
+            </div>
+
+            <h1>CampusBot</h1>
+            <p class="subtitle">Assistant universitaire intelligent</p>
+
+            <div class="student-panel">
+                <h3>Étudiant connecté</h3>
+                <p id="studentName">Étudiant</p>
+                <button onclick="logout()" class="logout-btn">Déconnexion</button>
+            </div>
+
+            <div class="students-box">
+                <h3>Réalisé par</h3>
+                <p>Mouad Fassi Fihri</p>
+                <p>Benlhabib Mohamed El Ghali</p>
+            </div>
+
+            <div class="students-box">
+                <h3>Encadré par</h3>
+                <p>AMAMOU Ahmed</p>
+            </div>
+
+            <div class="features-box">
+                <h3>CampusBot répond sur :</h3>
+                <ul>
+                    <li>Modules</li>
+                    <li>Professeurs</li>
+                    <li>Planning</li>
+                    <li>Salles</li>
+                    <li>Examens</li>
+                    <li>Annonces</li>
+                    <li>Questions générales avec OpenClaw IA</li>
+                </ul>
+            </div>
+        </aside>
+
+        <main class="chat-section">
+
+            <header class="chat-header">
+                <div>
+                    <h2>Chat universitaire</h2>
+                    <p>Posez une question concernant votre université ou vos études.</p>
+                </div>
+
+                <span class="status">● En ligne</span>
+            </header>
+
+            <section id="chatBox" class="chat-box">
+                <div class="message bot-message">
+                    <div class="avatar">CB</div>
+                    <div class="bubble">
+                        Bonjour, je suis CampusBot. Je peux vous aider concernant les modules, professeurs, planning, salles, examens et annonces. Pour les questions générales, j’utilise OpenClaw IA.
+                    </div>
+                </div>
+            </section>
+
+            <div class="quick-questions">
+                <button onclick="sendQuickQuestion('Quels sont les modules disponibles ?')">Modules</button>
+                <button onclick="sendQuickQuestion('Quel est le planning de lundi ?')">Planning</button>
+                <button onclick="sendQuickQuestion('Quels sont les examens ?')">Examens</button>
+                <button onclick="sendQuickQuestion('Quelles sont les annonces ?')">Annonces</button>
+                <button onclick="sendQuickQuestion('Explique moi les modèles de couleur')">OpenClaw IA</button>
+            </div>
+
+            <footer class="input-area">
+                <input
+                    type="text"
+                    id="userInput"
+                    placeholder="Écrivez votre question ici..."
+                    onkeydown="handleKeyPress(event)"
+                >
+                <button onclick="sendMessage()">Envoyer</button>
+            </footer>
+
+        </main>
+
+    </div>
+
+    <script src="script.js?v=999"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+pour activer l'interface : il faut 3 terminales POWERSHELL
+Terminal 1 : -  cd "C:\Users\Utilisateur\Desktop\CampusBot\data_service"
+-    & "..\.venv\Scripts\python.exe" -m uvicorn main:app --host 127.0.0.1 --port 8001 --reload
+
+
+Terminal 2 :  -  cd "C:\Users\Utilisateur\Desktop\CampusBot\chatbot_service"
+-    & "..\.venv\Scripts\python.exe" -m uvicorn main:app --host 127.0.0.1 --port 8000 --reload
+
+
+Terminal 3 : -   cd "C:\Users\Utilisateur\Desktop\CampusBot\frontend"
+
+-    python -m http.server 5500
+
+
+Dans Chrome, ouvrir :
+
+http://127.0.0.1:5500/login.html?v=999

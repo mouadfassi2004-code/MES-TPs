@@ -1,0 +1,30 @@
+﻿# Image Docker - Projet CampusBot
+
+Le projet CampusBot est organisé en trois services Docker :
+
+1. data_service
+   - Port local : 8001
+   - Rôle : gestion des données et accès aux informations universitaires.
+
+2. chatbot_service
+   - Port local : 8002
+   - Rôle : traitement des questions et génération des réponses du chatbot.
+
+3. frontend
+   - Port local : 8080
+   - Rôle : interface web utilisateur.
+
+Commandes utilisées :
+
+docker compose build
+docker compose up
+
+Accès à l'application :
+
+http://localhost:8080
+
+Architecture Docker :
+
+frontend -> chatbot_service -> data_service
+
+Le fichier docker-compose.yml permet de lancer tous les services ensemble.

@@ -1,0 +1,178 @@
+{
+  "university": {
+    "name": "Université Euromed de Fès",
+    "department": "Big Data",
+    "level": "3ème année",
+    "academic_year": "2025/2026"
+  },
+  "students": [
+    {
+      "full_name": "Mouad Fassi Fihri"
+    },
+    {
+      "full_name": "Benlhabib Mohamed El Ghali"
+    }
+  ],
+  "modules": [
+    {
+      "id": "applications_reparties",
+      "name": "Applications Réparties",
+      "professor_id": "abebaw",
+      "room": "B204",
+      "description": "Ce module étudie les architectures distribuées, les services web, les API REST, la communication entre services et les microservices."
+    },
+    {
+      "id": "cloud_computing",
+      "name": "Cloud Computing",
+      "professor_id": "naciri",
+      "room": "B203",
+      "description": "Ce module présente les principes du cloud, la virtualisation, les services cloud, le déploiement et la scalabilité."
+    },
+    {
+      "id": "traitement_image",
+      "name": "Traitement d'image",
+      "professor_id": "hassani",
+      "room": "Lab 2",
+      "description": "Ce module traite les notions de filtrage, seuillage, détection de contours, morphologie mathématique et extraction de caractéristiques."
+    },
+    {
+      "id": "recherche_operationnelle",
+      "name": "Recherche Opérationnelle",
+      "professor_id": "karimi",
+      "room": "B105",
+      "description": "Ce module aborde la programmation linéaire, la méthode du simplexe, les problèmes de transport et l'optimisation."
+    },
+    {
+      "id": "advanced_algorithmics",
+      "name": "Advanced Algorithmics",
+      "professor_id": "abebaw",
+      "room": "B202",
+      "description": "Ce module présente les algorithmes avancés, la complexité, la récursivité, la programmation dynamique et les graphes."
+    }
+  ],
+  "professors": [
+    {
+      "id": "abebaw",
+      "name": "Mr. Abebaw",
+      "email": "abebaw@ueuromed.org",
+      "office": "Bloc B - Bureau 12"
+    },
+    {
+      "id": "naciri",
+      "name": "Mr. Naciri",
+      "email": "naciri@ueuromed.org",
+      "office": "Bloc B - Bureau 08"
+    },
+    {
+      "id": "hassani",
+      "name": "Mme. Hassani",
+      "email": "hassani@ueuromed.org",
+      "office": "Bloc C - Bureau 05"
+    },
+    {
+      "id": "karimi",
+      "name": "Mr. Karimi",
+      "email": "karimi@ueuromed.org",
+      "office": "Bloc A - Bureau 03"
+    }
+  ],
+  "schedule": [
+    {
+      "day": "Lundi",
+      "time": "09:00 - 11:00",
+      "module_id": "Applications Réparties",
+      "room": "B204"
+    },
+    {
+      "day": "Lundi",
+      "time": "11:15 - 13:15",
+      "module_id": "Cloud Computing",
+      "room": "B203"
+    },
+    {
+      "day": "Mardi",
+      "time": "09:00 - 11:00",
+      "module_id": "Traitement d'image",
+      "room": "Lab 2"
+    },
+    {
+      "day": "Mercredi",
+      "time": "10:00 - 12:00",
+      "module_id": "Recherche Opérationnelle",
+      "room": "B105"
+    },
+    {
+      "day": "Jeudi",
+      "time": "14:00 - 16:00",
+      "module_id": "Advanced Algorithmics",
+      "room": "B202"
+    },
+    {
+      "day": "Vendredi",
+      "time": "09:00 - 11:00",
+      "module_id": "Applications Réparties",
+      "room": "B204"
+    }
+  ],
+  "exams": [
+    {
+      "module_id": "Applications Réparties",
+      "date": "15 juin 2026",
+      "time": "10:00",
+      "room": "Amphi 1",
+      "type": "Examen final"
+    },
+    {
+      "module_id": "Cloud Computing",
+      "date": "17 juin 2026",
+      "time": "09:00",
+      "room": "Amphi 2",
+      "type": "Examen final"
+    },
+    {
+      "module_id": "Traitement d'image",
+      "date": "20 juin 2026",
+      "time": "14:00",
+      "room": "Lab 2",
+      "type": "Examen pratique"
+    },
+    {
+      "module_id": "Recherche Opérationnelle",
+      "date": "22 juin 2026",
+      "time": "10:00",
+      "room": "B105",
+      "type": "Examen final"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Changement de salle",
+      "content": "Le cours d'Applications Réparties du vendredi aura lieu en salle B204.",
+      "date": "29 mai 2026"
+    },
+    {
+      "title": "Révision avant examen",
+      "content": "Une séance de révision pour Recherche Opérationnelle est prévue mercredi à 15h00.",
+      "date": "30 mai 2026"
+    },
+    {
+      "title": "Projet CampusBot",
+      "content": "Les étudiants doivent présenter une application répartie avec plusieurs services séparés.",
+      "date": "31 mai 2026"
+    }
+  ],
+  "general_info": [
+    {
+      "title": "Service scolarité",
+      "content": "Le service scolarité est ouvert du lundi au vendredi de 09h00 à 16h00."
+    },
+    {
+      "title": "Bibliothèque",
+      "content": "La bibliothèque universitaire est ouverte de 08h30 à 18h00."
+    },
+    {
+      "title": "Administration",
+      "content": "L'administration se trouve au bloc principal de l'université."
+    }
+  ]
+}

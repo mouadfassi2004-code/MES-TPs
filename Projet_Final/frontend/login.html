@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Connexion - CampusBot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="login-body">
+
+    <div class="login-container">
+        <div class="login-card">
+            <img src="assets/logo-uemf.png" alt="Logo UEMF" class="login-logo">
+
+            <h1>Connexion étudiant</h1>
+            <p>Connectez-vous pour accéder à CampusBot.</p>
+
+            <div class="input-group">
+                <label>Email universitaire</label>
+                <input type="email" id="email" placeholder="exemple@ueuromed.org" autocomplete="off">
+            </div>
+
+            <div class="input-group">
+                <label>Mot de passe</label>
+                <input type="password" id="password" placeholder="Mot de passe" autocomplete="off">
+            </div>
+
+            <button type="button" id="loginButton" class="login-btn">Se connecter</button>
+
+            <p id="loginMessage" class="login-message"></p>
+
+            <div class="demo-accounts">
+                <h4>Comptes de test</h4>
+                <p>mouad@ueuromed.org / 1234</p>
+                <p>ghali@ueuromed.org / 1234</p>
+                <p>student@ueuromed.org / 1234</p>
+            </div>
+
+            <a href="index.html" class="back-link">Retour à l’accueil</a>
+        </div>
+    </div>
+
+    <script>
+        const students = [
+            {
+                full_name: "Mouad Fassi Fihri",
+                email: "mouad@ueuromed.org",
+                password: "1234"
+            },
+            {
+                full_name: "Benlhabib Mohamed El Ghali",
+                email: "ghali@ueuromed.org",
+                password: "1234"
+            },
+            {
+                full_name: "Étudiant Test",
+                email: "student@ueuromed.org",
+                password: "1234"
+            }
+        ];
+
+        function loginStudent() {
+            const email = document.getElementById("email").value.trim().toLowerCase();
+            const password = document.getElementById("password").value.trim();
+            const messageBox = document.getElementById("loginMessage");
+
+            if (email === "" || password === "") {
+                messageBox.textContent = "Veuillez remplir l'email et le mot de passe.";
+                messageBox.className = "login-message error";
+                return;
+            }
+
+            const student = students.find(function(item) {
+                return item.email === email && item.password === password;
+            });
+
+            if (!student) {
+                messageBox.textContent = "Email ou mot de passe incorrect.";
+                messageBox.className = "login-message error";
+                return;
+            }
+
+            localStorage.setItem("campusbot_student", JSON.stringify({
+                full_name: student.full_name,
+                email: student.email
+            }));
+
+            window.location.href = "chat.html?v=" + Date.now();
+        }
+
+        document.getElementById("loginButton").addEventListener("click", loginStudent);
+
+        document.addEventListener("keydown", function(event) {
+            if (event.key === "Enter") {
+                loginStudent();
+            }
+        });
+    </script>
+
+</body>
+</html>

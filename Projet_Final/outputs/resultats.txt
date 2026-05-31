@@ -1,0 +1,20 @@
+﻿# Résultats du projet CampusBot
+
+Le projet CampusBot est une application distribuée composée de trois services :
+
+- frontend : interface utilisateur ;
+- chatbot_service : service du chatbot ;
+- data_service : service de données.
+
+Résultat attendu :
+
+1. L'utilisateur ouvre l'application web.
+2. Il se connecte depuis l'interface.
+3. Il est redirigé vers la page de chat.
+4. Il saisit une question.
+5. Le frontend envoie la question au chatbot_service.
+6. Le chatbot_service traite la question.
+7. Le chatbot_service peut récupérer des données depuis data_service.
+8. La réponse est affichée dans l'interface.
+
+L'application montre une architecture multi-services avec séparation entre interface, logique chatbot et gestion des données.

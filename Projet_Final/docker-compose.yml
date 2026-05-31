@@ -1,0 +1,32 @@
+﻿services:
+  data_service:
+    build:
+      context: .
+      dockerfile: data_service/Dockerfile
+    container_name: campusbot_data_service
+    ports:
+      - "8001:8001"
+    restart: unless-stopped
+
+  chatbot_service:
+    build:
+      context: .
+      dockerfile: chatbot_service/Dockerfile
+    container_name: campusbot_chatbot_service
+    ports:
+      - "8002:8002"
+    depends_on:
+      - data_service
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    container_name: campusbot_frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - chatbot_service
+      - data_service
+    restart: unless-stopped

@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-05-31T01:33:11+00:00",
+  "task": "clean_orders",
+  "status": "success",
+  "rows_read": 3,
+  "rows_written": 3,
+  "rows_rejected": 0
+}

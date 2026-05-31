@@ -1,0 +1,1 @@
+{"snapshot_id": "SNP-001", "restaurant_id": "R001", "event_ts": "2026-05-31T01:33:11+00:00", "orders_in_progress": 5, "avg_prep_time_seconds": 900, "backlog_orders": 2, "active_staff": 6, "server_ts": "2026-05-31T01:33:11+00:00", "schema_version": "v1"}

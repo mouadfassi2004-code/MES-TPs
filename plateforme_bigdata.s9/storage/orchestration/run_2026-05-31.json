@@ -1,0 +1,10 @@
+{
+  "date": "2026-05-31",
+  "finished_at": "2026-05-31T01:33:11+00:00",
+  "tasks": {
+    "clean_orders": "SUCCESS",
+    "clean_payments": "SUCCESS",
+    "clean_snapshots": "SUCCESS",
+    "compute_daily_report": "SUCCESS"
+  }
+}

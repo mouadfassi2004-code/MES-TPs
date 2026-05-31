@@ -1,0 +1,1 @@
+{"payment_id": "PAY-001", "order_id": "ORD-001", "restaurant_id": "R001", "amount": 120.0, "payment_method": "card", "payment_status": "accepted", "event_ts": "2026-05-31T01:33:11+00:00", "server_ts": "2026-05-31T01:33:11+00:00", "schema_version": "v1", "city": "Fes", "restaurant_name": "Restaurant Fes Centre"}

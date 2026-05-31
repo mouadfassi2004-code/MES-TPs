@@ -1,0 +1,16 @@
+﻿TP8 - Synthèse applications distribuées Big Data
+
+Résumé du test :
+
+1. Le service reçoit une commande.
+2. La commande est validée.
+3. Un événement est produit.
+4. L'événement est publié dans le broker.
+5. Le broker répartit les événements dans des partitions.
+6. Les consumers lisent les partitions.
+7. Les offsets sont sauvegardés.
+8. Le stockage partitionné est mis à jour.
+9. Le dashboard produit un rapport final.
+
+Conclusion :
+Le TP8 fonctionne comme une mini architecture distribuée Big Data.

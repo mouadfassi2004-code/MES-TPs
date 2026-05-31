@@ -1,0 +1,27 @@
+﻿{
+  "tp": "TP8 - Applications distribuées Big Data",
+  "total_orders": 25,
+  "events_published": 120,
+  "events_consumed": 120,
+  "partitions": 3,
+  "consumer_groups": {
+    "analytics-group": {
+      "consumers": 2,
+      "lag": 0
+    },
+    "storage-group": {
+      "consumers": 2,
+      "lag": 0
+    }
+  },
+  "orders_by_city": {
+    "Fes": 12,
+    "Rabat": 7,
+    "Casablanca": 6
+  },
+  "deliveries": {
+    "delivered": 20,
+    "failed": 5
+  },
+  "status": "completed"
+}

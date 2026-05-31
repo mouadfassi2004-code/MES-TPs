@@ -1,0 +1,10 @@
+﻿2026-05-31 12:00:00 | INFO | Application started
+2026-05-31 12:00:01 | INFO | Broker initialized | partitions=3
+2026-05-31 12:00:02 | INFO | Event published | order_id=ord-001 | partition=1 | offset=0
+2026-05-31 12:00:03 | WARNING | Simulated crash before commit
+2026-05-31 12:00:04 | INFO | Restarting consumer group
+2026-05-31 12:00:05 | INFO | Offsets loaded
+2026-05-31 12:00:06 | INFO | Consumer resumed | partition=1 | offset=0
+2026-05-31 12:00:07 | INFO | Event processed | order_id=ord-001
+2026-05-31 12:00:08 | INFO | Offset committed | partition=1 | offset=1
+2026-05-31 12:00:09 | INFO | Recovery demonstration completed

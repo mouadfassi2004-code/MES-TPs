@@ -1,2 +1,0 @@
-{"rpc_id": "5172a535-56da-4c69-9595-5e3b6d833d11", "method": "health.ping", "status": "success", "latency_ms": 0.23}
-{"rpc_id": "2e94a2b4-cb39-4585-9ef1-ccf33abd4b3f", "method": "ingest.batch", "status": "success", "latency_ms": 0.89}

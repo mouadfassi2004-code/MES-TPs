@@ -1,0 +1,11 @@
+﻿{
+  "tp": "TP5 - Mini pipeline d ingestion IoT",
+  "messages_produced": 100,
+  "messages_accepted": 92,
+  "messages_dead_letter": 8,
+  "retries_total": 12,
+  "max_backlog": 24,
+  "average_latency_ms": 18.5,
+  "average_throughput_msg_per_sec": 210,
+  "status": "completed"
+}

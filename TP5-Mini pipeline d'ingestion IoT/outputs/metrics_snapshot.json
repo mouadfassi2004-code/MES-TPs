@@ -1,0 +1,10 @@
+﻿{
+  "produced": 100,
+  "accepted": 92,
+  "rejected": 8,
+  "retried": 12,
+  "dead_letter": 8,
+  "queue_backlog_max": 24,
+  "avg_latency_ms": 18.5,
+  "throughput_msg_per_sec": 210
+}

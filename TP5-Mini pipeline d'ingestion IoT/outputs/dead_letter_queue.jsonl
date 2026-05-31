@@ -1,0 +1,3 @@
+﻿{"msg_id":"msg-010","sensor_id":"","reason":"sensor_id manquant","attempts":3}
+{"msg_id":"msg-025","sensor_id":"S25","reason":"temperature hors plage","attempts":3}
+{"msg_id":"msg-041","sensor_id":"S41","reason":"timestamp invalide","attempts":3}

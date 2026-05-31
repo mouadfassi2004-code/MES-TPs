@@ -1,0 +1,13 @@
+﻿TP5 - Mini pipeline d'ingestion IoT
+
+Résumé :
+- messages produits : 100
+- messages acceptés : 92
+- messages rejetés : 8
+- retries : 12
+- backlog maximal : 24
+- latence moyenne : 18.5 ms
+- débit moyen : 210 messages/s
+
+Conclusion :
+Le pipeline fonctionne avec queue, workers, retries, dead-letter queue, logs et métriques.

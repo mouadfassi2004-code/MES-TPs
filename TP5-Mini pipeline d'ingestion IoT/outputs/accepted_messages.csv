@@ -1,0 +1,4 @@
+﻿msg_id,sensor_id,site_id,timestamp,temperature,humidity,status
+msg-001,S01,ZONE-A,2026-05-31T12:00:00,24.5,55,ACCEPTED
+msg-002,S02,ZONE-A,2026-05-31T12:00:01,25.0,52,ACCEPTED
+msg-003,S03,ZONE-B,2026-05-31T12:00:02,22.8,61,ACCEPTED

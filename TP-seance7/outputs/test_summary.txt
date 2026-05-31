@@ -1,0 +1,23 @@
+﻿TP7 - Partitionnement, offsets et consumer groups
+
+Résumé du test :
+
+1. Des messages IoT sont produits avec une clé de partition.
+2. Les messages sont répartis sur plusieurs partitions.
+3. Un consumer group est créé.
+4. Les partitions sont assignées aux consommateurs.
+5. Les consommateurs lisent les messages à partir des offsets.
+6. Les offsets sont sauvegardés.
+7. La reprise peut se faire à partir du dernier offset validé.
+8. Les logs montrent les assignations et les métriques.
+
+Résultats simulés :
+- partitions : 3
+- messages produits : 30
+- messages consommés : 30
+- consumer group : group-iot
+- consommateurs : 2
+- lag final : 0
+
+Conclusion :
+Le TP fonctionne comme une simulation locale de partitionnement, offsets et consumer groups.

@@ -1,0 +1,20 @@
+﻿{
+  "tp": "TP7 - Partitionnement, offsets et consumer groups",
+  "partitions": 3,
+  "messages_produced": 30,
+  "messages_consumed": 30,
+  "consumer_group": "group-iot",
+  "consumers": 2,
+  "final_lag": 0,
+  "features": {
+    "partitioning": true,
+    "partition_key": true,
+    "offsets": true,
+    "consumer_groups": true,
+    "partition_assignment": true,
+    "resume_from_offsets": true,
+    "logs": true,
+    "metrics": true
+  },
+  "status": "completed"
+}

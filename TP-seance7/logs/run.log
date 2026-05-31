@@ -1,0 +1,12 @@
+﻿2026-05-31 12:00:00 | INFO | TP7 started
+2026-05-31 12:00:01 | INFO | Producer started
+2026-05-31 12:00:02 | INFO | Message assigned | key=S01 | partition=0 | offset=0
+2026-05-31 12:00:03 | INFO | Message assigned | key=S02 | partition=1 | offset=0
+2026-05-31 12:00:04 | INFO | Consumer group started | group_id=group-iot
+2026-05-31 12:00:05 | INFO | Partition assignment | consumer=consumer-1 | partitions=[0,2]
+2026-05-31 12:00:06 | INFO | Partition assignment | consumer=consumer-2 | partitions=[1]
+2026-05-31 12:00:07 | INFO | Message consumed | consumer=consumer-1 | partition=0 | offset=0
+2026-05-31 12:00:08 | INFO | Message consumed | consumer=consumer-2 | partition=1 | offset=0
+2026-05-31 12:00:09 | INFO | Metrics snapshot | produced=30 | consumed=30 | lag=0
+2026-05-31 12:00:10 | INFO | Offsets committed | group_id=group-iot
+2026-05-31 12:00:11 | INFO | TP7 finished successfully

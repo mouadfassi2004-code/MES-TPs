@@ -1,0 +1,9 @@
+﻿{
+  "group_id": "group-iot",
+  "offsets": {
+    "partition-0": 10,
+    "partition-1": 10,
+    "partition-2": 10
+  },
+  "committed_at": "2026-05-31T12:00:10"
+}

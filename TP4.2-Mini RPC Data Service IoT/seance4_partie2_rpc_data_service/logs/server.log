@@ -2,3 +2,7 @@
 {"rpc_id": "3cd79f6e-7685-4f1e-80a8-0116b51bce5c", "method": "ingest.batch", "status": "ok", "latency_ms": 2.33}
 {"rpc_id": "8393d7ee-236d-4145-932b-202ea47b021e", "method": "stats.daily_summary", "status": "ok", "latency_ms": 0.25}
 {"rpc_id": "b136fc31-918b-40d2-9f37-cb9fcaaafa81", "method": "stats.top_sensors", "status": "ok", "latency_ms": 0.38}
+{"rpc_id": "ba0fd52a-c840-46b5-91a2-df70860c4acf", "method": "health.ping", "status": "ok", "latency_ms": 0.0}
+{"rpc_id": "d61b9f2c-3f9f-44e8-85e2-94a6d0ee04a2", "method": "ingest.batch", "status": "ok", "latency_ms": 0.0}
+{"rpc_id": "96eabc9f-bb54-417b-9393-177fbb1c515c", "method": "stats.daily_summary", "status": "ok", "latency_ms": 0.0}
+{"rpc_id": "d12cb1f4-3d7a-4c3d-bbcc-af72ebec91ff", "method": "stats.top_sensors", "status": "ok", "latency_ms": 0.0}

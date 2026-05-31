@@ -1,0 +1,19 @@
+﻿{
+  "service": "Mini RPC Data Service IoT",
+  "methods": [
+    "health.ping",
+    "ingest.batch",
+    "stats.daily_summary",
+    "stats.top_sensors"
+  ],
+  "input_file": "test_batch.json",
+  "output_file": "outputs/ingested_data.csv",
+  "status": "completed",
+  "features": {
+    "rpc_protocol": true,
+    "method_router": true,
+    "timeout_and_retries": true,
+    "structured_errors": true,
+    "logs": true
+  }
+}

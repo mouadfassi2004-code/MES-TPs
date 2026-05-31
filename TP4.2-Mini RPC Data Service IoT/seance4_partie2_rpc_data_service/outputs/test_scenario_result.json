@@ -1,0 +1,11 @@
+﻿{
+  "tp": "TP4.2 - Mini RPC Data Service IoT",
+  "tests": {
+    "health_ping": "passed",
+    "ingest_batch": "passed",
+    "stats_daily_summary": "passed",
+    "stats_top_sensors": "passed",
+    "unknown_method": "passed"
+  },
+  "global_status": "Tests documentés"
+}

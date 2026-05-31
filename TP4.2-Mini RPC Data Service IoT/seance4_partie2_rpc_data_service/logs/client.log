@@ -1,0 +1,6 @@
+﻿2026-05-31 12:00:00 | INFO | method=health.ping | status=received
+2026-05-31 12:00:01 | INFO | method=ingest.batch | status=received
+2026-05-31 12:00:02 | INFO | method=stats.daily_summary | status=received
+2026-05-31 12:00:03 | INFO | method=stats.top_sensors | status=received
+2026-05-31 12:00:04 | INFO | method=unknown.method | status=error_checked
+2026-05-31 12:00:05 | INFO | Scenario completed

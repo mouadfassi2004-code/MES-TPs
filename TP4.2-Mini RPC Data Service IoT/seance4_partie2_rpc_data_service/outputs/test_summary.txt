@@ -1,0 +1,15 @@
+﻿TP4.2 - Mini RPC Data Service IoT
+
+Résumé du test :
+
+1. Le serveur RPC est lancé.
+2. Le client appelle health.ping.
+3. Le client envoie un batch de lectures avec ingest.batch.
+4. Le serveur valide les lectures.
+5. Les lectures acceptées sont enregistrées dans outputs/ingested_data.csv.
+6. Le client appelle stats.daily_summary.
+7. Le client appelle stats.top_sensors.
+8. Une méthode inconnue est testée pour vérifier la gestion d'erreurs.
+
+Conclusion :
+Le TP fonctionne comme un mini service RPC IoT avec ingestion, validation, statistiques et observabilité.
